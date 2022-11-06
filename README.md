@@ -1,3 +1,7 @@
+# Top 7 Node.js Project Ideas For Beginners
+
+From: **[GeeksforGeeks](https://www.geeksforgeeks.org/top-7-nodejs-project-ideas-for-beginners/)**
+
 Why use NodeJS to build backend projects? NodeJS stores data in native JSON format thus making it fast, using the “Single Threaded Event Loop Model” to handle multiple existing clients. It works on different platforms irrespective of operating systems generally, supports Linux, Windows, macOS, and mobile platforms. It can be used on both the frontend and backend sides of the application which accelerates the development process. NodeJS has real-time communication support and handles a large amount of information very efficiently.
 
 You would also love to know that companies like Uber, Yahoo, Netflix, NASA, PayPal, LinkedIn, Twitter, etc. uses NodeJS in their application. Isn’t it amazing? Also, some most popular Full-Stack technologies like MERN (MongoDB, Express.js, React, NodeJS) and MEAN (MongoDB, Express.js, AngularJS, NodeJS) which are also most demanding, uses NodeJS as their server-side implementation.
@@ -48,6 +52,8 @@ This app built using NodeJS focuses on the collection and management of data be 
 1. HTML
 1. CSS
 1. Responsiveness.
+
+## **Real-Time Chat**
 
 This chat demonstrates real-time message transferring from one source to another. The process starts with the client sending regular HTTP requests to the server. With the knowledge of web sockets and socket.io, it becomes easy to code. The real-time communication support feature of NodeJS can be used here. Here, the messages get updated without refreshing the page which can be done using routers. Socket.io can be used to build real-time applications which can be used to receive and send messages. The use of mongoose provides a lot of convenience in the creation and management of data in MongoDB. Moment helps you manipulate and format dates in JavaScript. Moreover, this application represents Messenger.
 
