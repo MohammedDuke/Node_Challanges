@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const uri =
-  "mongodb+srv://fizoduke:1234@cluster0.a4jictj.mongodb.net/01-BOOK-DIRECTORY?retryWrites=true&w=majority";
+  "ur uri in mongoose";
 
 const connectDB = () => {
   return mongoose.connect(uri);
